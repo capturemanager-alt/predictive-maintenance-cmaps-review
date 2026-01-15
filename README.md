@@ -24,4 +24,4 @@ End-to-end LSTM deep learning project for predicting Remaining Useful Life (RUL)
 View/run online: [nbviewer link here – paste your nbviewer URL]
 
 Built as a portfolio project for tailored AI/ML solutions in manufacturing and defense.  
-Questions? Contact: fitzie (@fitzie93788585)
+Questions? Contact: capturemanager@fitzinit.com
