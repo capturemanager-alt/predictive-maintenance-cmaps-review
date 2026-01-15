@@ -21,7 +21,7 @@ End-to-end LSTM deep learning project for predicting Remaining Useful Life (RUL)
 3. Run notebook: `jupyter notebook Predictive_Maintenance_CMAPSS.ipynb`
 
 ## Interactive View
-View/run online: [nbviewer link here – paste your nbviewer URL]
+View/run online: [nbviewer](https://nbviewer.org/github/capturemanager-alt/predictive-maintenance-cmaps-review/blob/main/Predictive_Maintenance_CMAPSS.ipynb)
 
 Built as a portfolio project for tailored AI/ML solutions in manufacturing and defense.  
 Questions? Contact: capturemanager@fitzinit.com
